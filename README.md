@@ -1,8 +1,10 @@
 # exchange_rate
 
-A new Flutter project.
+### Screen Preview
 
-## Getting Started
+<img src="https://github.com/NAPATKRUP/ExchangeRate/blob/main/README/Screen.PNG" width="250px"/>
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
